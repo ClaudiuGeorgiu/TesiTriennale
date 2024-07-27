@@ -2,7 +2,6 @@
 
 > Adattamento e ottimizzazione di un algoritmo di superpixel per sequenze video
 
-[![Generate pdf](https://github.com/ClaudiuGeorgiu/TesiTriennale/workflows/Generate%20pdf/badge.svg)](https://github.com/ClaudiuGeorgiu/TesiTriennale/actions?query=workflow%3A%22Generate+pdf%22)
 [![Download pdf](https://img.shields.io/badge/download-PDF-orange.svg)](https://github.com/ClaudiuGeorgiu/TesiTriennale/releases/download/latest/tesi.pdf)
 [![Overleaf](https://img.shields.io/badge/open-Overleaf-success.svg)](https://www.overleaf.com/read/dpqybbcxgvtx)
 
